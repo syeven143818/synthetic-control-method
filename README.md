@@ -5,3 +5,6 @@ This research uses the synthetic control method (SCM) to study the causality bet
 
 ## MORE DETAILED
 https://github.com/syeven143818/synthetic-control-method/blob/main/Internet%20opinion%20and%20sentiment%20on%20the%20willingness%20of%20getting%20the%20MVC%20covid-19%20vaccine.pdf
+
+## NOTE
+We can not provide the raw data form OpView.
