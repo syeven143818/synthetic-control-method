@@ -6,5 +6,8 @@ This research uses the synthetic control method (SCM) to study the causality bet
 ## MORE DETAILED
 https://github.com/syeven143818/synthetic-control-method/blob/main/doc/thesis.pdf
 
+## REFERENCES
+https://github.com/syeven143818/synthetic-control-method/blob/main/doc/references.pdf
+
 ## NOTE
 * Due to the confidential contract, we can not provide the raw data form OpView Insight.
